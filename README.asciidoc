@@ -2,3 +2,10 @@
 
 A platform for my contribution to a mod for a game.
 (Mein Beitrag zu einem Mod für ein Computerspiel).
+
+== provinces.bmp ==
+
+The original of this file has been created by user Umgssda on the
+http://www.si-games.com/forums/forumdisplay.php?f=239[Strategycon Interactive
+Forum], i just did some changes. (Das Original der Datei kommt von dem Benutzer Umgssda auf oben gelinktem
+Forum, von mir stammen nur ein paar Veränderungen).
